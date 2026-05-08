@@ -1,4 +1,4 @@
-# Full-Stack · Training by Various Tutors at Rocketseat
+# Full-Stack Training by Various Instructors at Rocketseat
 
 - [Course URL](https://www.rocketseat.com.br/formacao/fullstack)
 - [Certificate URL]()
